@@ -1,0 +1,32 @@
+{
+  "name": "passwordless-lambda",
+  "version": "1.0.0",
+  "description": "Autenticación sin PASSWORD (Node.js + MongoDB + JWT + Mailgun)",
+  "main": "index.js",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "mailgun-js": "^0.22.0",
+    "mongoose": "^5.9.15",
+    "serverless-offline": "^6.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosroec/passwordless-lambda.git"
+  },
+  "keywords": [
+    "node.js",
+    "lambda",
+    "mailgun",
+    "serverless"
+  ],
+  "author": "@carlosro_ec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosroec/passwordless-lambda/issues"
+  },
+  "homepage": "https://github.com/carlosroec/passwordless-lambda#readme"
+}
