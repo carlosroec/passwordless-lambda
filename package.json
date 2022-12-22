@@ -4,7 +4,7 @@
   "description": "Autenticación sin PASSWORD (Node.js + MongoDB + JWT + Mailgun)",
   "main": "index.js",
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mailgun-js": "^0.22.0",
     "mongoose": "^5.9.15",
     "serverless-offline": "^6.1.7"
